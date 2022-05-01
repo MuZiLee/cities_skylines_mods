@@ -1,0 +1,15 @@
+﻿CLICK_MORE	Click for more!
+KILO_UNITS	k units	Used like in "100k units"
+TRUCKS_RCVD_LAST_MONTH	Trucks received last month
+TRUCKS_RCVD_LAST_WEEK	Trucks received last week
+TRUCKS_SENT_LAST_MONTH	Trucks sent last month
+TRUCKS_SENT_LAST_WEEK	Trucks sent last week
+RECEIVED	Received
+SENT	Sent
+LOCAL	Local
+IMPORT	Import
+EXPORT	Export
+STATS_WINDOW_LABEL	Cargo Statistics
+RESET_COUNTERS_TOOLTIP	Reset all counters for this building - use with care!
+SWITCH_MODES_TOOLTIP_PREV	Switch between display modes (now displaying values for last month)
+SWITCH_MODES_TOOLTIP_CUR	Switch between display modes (now displaying values for current month)

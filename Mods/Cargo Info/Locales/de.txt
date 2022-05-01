@@ -1,0 +1,15 @@
+﻿CLICK_MORE	Klicke für mehr!
+KILO_UNITS	k Einheiten
+TRUCKS_RCVD_LAST_MONTH	LKWs erhalten diesen Monat
+TRUCKS_RCVD_LAST_WEEK	LKWs erhalten diese Woche
+TRUCKS_SENT_LAST_MONTH	LKWs gesendet diesen Monat
+TRUCKS_SENT_LAST_WEEK	LKWs gesendet diese Woche
+RECEIVED	Erhalten
+SENT	Gesendet
+LOCAL	Lokal
+IMPORT	Import
+EXPORT	Export
+STATS_WINDOW_LABEL	Waren Statistik
+RESET_COUNTERS_TOOLTIP	Setze alle Zähler für dieses Gebäude zurück - Mit Vorsicht nutzen!
+SWITCH_MODES_TOOLTIP_PREV	Wechsel zwischen Anzeige-Modi (zeigt nun die Werte letzten Monats)
+SWITCH_MODES_TOOLTIP_CUR Wechsel zwischen Anzeige-Modi (zeigt nun die Werte dieses Monats)

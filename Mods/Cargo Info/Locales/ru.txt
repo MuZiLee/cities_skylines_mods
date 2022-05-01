@@ -1,0 +1,15 @@
+﻿CLICK_MORE	Нажмите, чтобы увидеть больше!
+TRUCKS_RCVD_LAST_MONTH	Грузовиков получено за прошлый месяц
+TRUCKS_RCVD_LAST_WEEK	Грузовиков получено на прошлой неделе
+TRUCKS_SENT_LAST_MONTH	Грузовиков отправлено за прошлый месяц
+TRUCKS_SENT_LAST_WEEK	Грузовиков отправлено на прошлой неделе
+KILO_UNITS	 тыс. ед.	Used in: "100k units"
+RECEIVED	Получено
+SENT	Отдано
+LOCAL	Внутри
+IMPORT	Импорт
+EXPORT	Экспорт
+STATS_WINDOW_LABEL	Статистика грузов
+RESET_COUNTERS_TOOLTIP	Сбросить все счетчики для этого здания - используйте осторожно!
+SWITCH_MODES_TOOLTIP_PREV	Switch between display modes (now displaying values for last month)
+SWITCH_MODES_TOOLTIP_CUR	Switch between display modes (now displaying values for current month)

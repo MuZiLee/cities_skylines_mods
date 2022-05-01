@@ -1,0 +1,37 @@
+﻿HotKeyAdd	Increase Radius/LeftWidth/RoadWidth
+HotKeyMinus	Decrease Radius/LeftWidth/RoadWidth
+HotKeyRise	Increase Height/RightWidth/RoadGaps
+HotKeyLower	Decrease Height/RightWidth/RoadGaps
+HotKeyBuild	Build
+HotKeyLaterBuild	LaterBuild
+HotKeyClear	Clear
+ChangeRoundCenter	Can change round center now.
+Radius	radius = 
+Height	height = 
+ConstructionFee	Need construction Fee = 
+STEP0	Please select start node
+STEP0ERROR	This Node is available
+3ROUNDSTEP2	Please select round centre and adjust radius = 
+YROADSTEP1	Please select left added width = 
+RightAddedWidth	right added width = 
+1ROUNDSTEP1	Please select post start node for start direction
+NOMONEY	Do not have enough money
+3ROUNDSTEP1	Please select end node.
+YROADSTEP2Single	Please select leftRoadWidth.
+YROADSTEP2Dual	Please select mainRoadWidth.
+1ROUNDSTEP2	Please select end node.
+MainRoadWidth	mainRoadWidth = 
+RightLeftRoadWidth	rightRoadWidth&leftRoadWidth
+RoadGaps	road gaps = 
+RightRoadWidth	rightRoadWidth = 
+LeftRoadWidth	leftRoadWidth = 
+InvalidShape	Invalid shape
+ShortCut	ShortCut
+OtherOption	Other Option
+NeedMoney	Need money to build road
+SMOOTHMODE	(smooth from start to end)
+CurrentRoadWidth	Current RoadWidth = 
+TRYOPTION	Change "Need money to build road" in mod`s option
+NOSHADERPREVIEW	Do not use shader as preview(select this if using CSUR road)
+RoadLength	Road Length = 
+NODEGAP	Road node gap
