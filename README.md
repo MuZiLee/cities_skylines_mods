@@ -2,10 +2,21 @@
 
 Cities Skylines common mods，You deserve it
 
+天际线的mod实在难找，搞了好些天才把这些mod收集完成，这些mod都根据那些视频播主中使用的工具，通过爬梯子，找资源等方式收集完成，所有mod我都在使用，目前是稳定的。
+
+我现在玩的版本是`城市天际线 Cities v1.13.1f1`mac版，windows没有测，个人认为是也是正常。
+
+mod有的工具年份比较老，有些是2017年之前的，好用的东西还是会被大家所喜爱吧。
+
+
+
 ## 【mac】
 
  Copy directly to the following directory
+
 ╰─❯ /Applications/Cities.app/Contents/Resources/Files/Mods
+
+
 
 ## 【windows】	
 
